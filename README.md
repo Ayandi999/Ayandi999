@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on **AI-based Counseling Tools** and **ISL Sentence Recognition**
 - 🌱 I’m improving my knowledge in **Machine Learning**, **System Design**, and **Spring Boot**
 - 💬 Ask me about **Java, Python, C**, and **ML/DL frameworks**
-- 📫 Reach me at: **ayandip@example.com**
+- 📫 Reach me at: **ayandip.contact@gmail.com**
 - 🧠 Gearing up for **GATE CS & DA** 🎯
 
 ---
